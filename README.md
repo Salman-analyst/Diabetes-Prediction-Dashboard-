@@ -52,7 +52,7 @@ For any questions or suggestions, feel free to connect:
 
 🔗 LinkedIn : www.linkedin.com/in/muhammad-salman-analyst
 
-🛠️ GitHub: Salman-analyst
+🛠️ GitHub: https://github.com/Salman-analyst
 
 📧 Email: workasanalyst@gmail.com
 
